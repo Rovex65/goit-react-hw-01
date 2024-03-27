@@ -1,0 +1,33 @@
+.card {
+  margin: 0 auto;
+  border: 2px black solid;
+  border-radius: 15px;
+  overflow: hidden;
+  max-width: 260px;
+  margin-bottom: 24px;
+}
+
+.card-info {
+  padding: 24px;
+}
+
+.card-img {
+  margin: 0 auto;
+  width: 156px;
+  border-radius: 50%;
+  background-color: rgb(44, 44, 44);
+}
+
+.stat-list {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(180, 180, 180);
+  border-collapse: separate;
+}
+
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  flex-grow: 1;
+}

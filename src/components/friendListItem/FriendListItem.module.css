@@ -1,0 +1,13 @@
+.friend-card {
+  border: 2px black solid;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
