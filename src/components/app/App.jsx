@@ -7,8 +7,6 @@ import userData from "../userData.json";
 import friends from "../friends.json";
 import transactions from "../transactions.json";
 
-console.log(JSON.stringify(friends));
-
 const App = () => {
   return (
     <>
